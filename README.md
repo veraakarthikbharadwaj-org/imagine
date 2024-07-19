@@ -63,7 +63,7 @@ The app is compatible with iOS 12.4 and above (iOS 16.0+ for the lock screen wid
 https://github.com/kwsong0113/imagine/assets/53707540/d6675ad0-7f54-4fb3-af03-2822f045ecc4
 
 
-## Getting Started
+## Getting Started - now
 ### Installation
 Open a Terminal in the project root and run...
 
